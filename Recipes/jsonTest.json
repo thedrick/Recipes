@@ -1,0 +1,14 @@
+{
+  "title": "Test recipe",
+  "ingredients" : ["milk", "flour", "butter"],
+  "directions" : [
+                  {
+                  "name" : "object1",
+                  "value" : 5
+                  },
+                  {
+                  "name" : "object2",
+                  "value" : 7
+                  }
+  ]
+}

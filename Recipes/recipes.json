@@ -1,0 +1,54 @@
+{
+  "title" : "English Scones",
+  "ingredients" : [
+                   {
+                    "amount" : 3,
+                    "measurement" : "cups",
+                    "name" : "all-purpouse flour"
+                   },
+                   {
+                   "amount" : 0.5,
+                   "measurement" : "cup",
+                   "name" : "white sugar"
+                   },
+                   {
+                   "amount" : 5,
+                   "measurement" : "teaspoons",
+                   "name" : "salt"
+                   },
+                   {
+                   "amount" : 0.75,
+                   "measurement" : "cup",
+                   "name" : "butter"
+                   },
+                   {
+                   "amount" : 1,
+                   "measurement" : "",
+                   "name" : "egg, beaten"
+                   },
+                   {
+                   "amount" : 1,
+                   "measurement" : "cup",
+                   "name" : "milk"
+                   }
+  ],
+  "directions" : [
+                  {
+                  "stepOrder" : 1,
+                  "directionValue" : "Preheat oven to 400 degrees F (200 degrees C). Lightly grease a baking sheet."
+                  },
+                  {
+                  "stepOrder" : 2,
+                  "directionValue" : "In a large bowl, combine flour, sugar, baking powder, and salt. Cut in butter. Mix the egg and milk in a small bowl, and stir into flour mixture until moistened."
+                  },
+                  {
+                  "stepOrder" : 3,
+                  "directionValue" : "Turn dough out onto a lightly floured surface, and knead briefly. Roll dough out into a 1\/2 inch thick round. Cut into 8 wedges, and place on the prepared baking sheet."
+                  },
+                  {
+                  "stepOrder" : 4,
+                  "directionValue" : "Bake 15 minutes in the preheated oven, or until golden brown."
+                  }
+                  
+  ]
+}
